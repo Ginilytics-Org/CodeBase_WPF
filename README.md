@@ -21,5 +21,6 @@ The Task Board Application is a WPF (Windows Presentation Foundation) applicatio
 ## Setup Instructions
 
 1. **Clone the Repository**:
-
-   ```bash
+ ```bash
+   git clone https://github.com/Ginilytics-Org/CodeBase_WPF.git
+   cd Task-board
